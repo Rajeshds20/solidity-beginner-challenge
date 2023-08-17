@@ -50,7 +50,7 @@ The provided Solidity code represents a simple Ethereum smart contract that crea
 
 Please note that this is a simplified overview, and the actual process may vary based on the tools and platforms you choose. It's recommended to consult the documentation of the specific development environment you're using for more detailed instructions.
 
-### Executing program
+## Executing program
 
 1. Compile the contract in your chosen environment.
 2. Then, deploy the contract to the Ethereum network. 
