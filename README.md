@@ -52,9 +52,9 @@ Please note that this is a simplified overview, and the actual process may vary 
 
 ### Executing program
 
-Compile the contract in your chosen environment.
-Then, deploy the contract to the Ethereum network. 
-This will require setting up a local development network or connecting to a testnet or mainnet.
+1. Compile the contract in your chosen environment.
+2. Then, deploy the contract to the Ethereum network. 
+3. This will require setting up a local development network or connecting to a testnet or mainnet.
 
 
 ## Help
